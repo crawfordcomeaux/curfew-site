@@ -69,3 +69,6 @@ Icon
 
 # SublimeText project files
 *.sublime-workspace
+
+###Node-Express-Mongoose-Demo###
+demo/
